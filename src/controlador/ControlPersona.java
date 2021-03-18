@@ -70,6 +70,7 @@ public class ControlPersona {
         vista.getBtnExaminar().addActionListener(l->cargarImagen());
     }
     
+    //aqui la impresion
     
     private void cargaLista(String aguja){
         
